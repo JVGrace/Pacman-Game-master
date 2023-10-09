@@ -1,17 +1,17 @@
-# [PacmanJs](https://rishabhdevbanshi.github.io/Pacman-Game/)  :video_game:
+# [PacmanJs](https://github.com/JVGrace/Pacman-Game-master/)  :video_game:
 
 PacmanJs is a Javascript, HTML and CSS based game that enable you to play with the most charismatic 80's character ever created.
 
 
 ## How to start :triangular_flag_on_post:
-<img src="https://github.com/bhavesh1129/Pacman-Game/blob/master/PacmanImage.PNG" width="600" height="500">
+<img src="https://imgs.search.brave.com/glULTxvbqC_kCYuXOkg5m_SQZK76B9WQ0-bglTdtU7I/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTU3/NzM5MzkxL3Bob3Rv/L3ZpbnRhZ2UtcGFj/bWFuLXZpZGVvLWdh/bWUuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPTktRmN3MDJo/ZjRhc2F4NnVpQUtv/Ri1wNnJRVlRON2lm/cEZ1dm5yeHlTMVk9" width="600" height="500">
 
 ## Installation/Execute :beginner:
 
 Clone the repository and run index.html on your web browser:
 
 ```
-git clone https://github.com/RishabhDevbanshi/Pacman-Game.git
+git clone https://github.com/JVGrace/Pacman-Game-master.git
 ```
 
 ## How to play :sparkles:
